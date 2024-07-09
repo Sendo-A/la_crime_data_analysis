@@ -2,6 +2,7 @@
 
 <img src="https://github.com/Sendo-A/la_crime_data_analysis/blob/main/Los_Angeles_Images/Data_Viz_Powerbi.PNG" alt="Power Bi" width="800">
 
+<img src="https://github.com/Sendo-A/la_crime_data_analysis/blob/main/Los_Angeles_Images/Sql_Query_EDA_2.PNG" alt="Power Bi" width="800">
 ## Introduction
 
 This project provides an analysis of crime data in Los Angeles using SQL for data extraction and Power BI for visualization. The analysis focuses on various metrics to understand the patterns and trends in criminal activities, victim demographics, and case statuses.
@@ -65,6 +66,5 @@ Data was extracted using SQL queries to select and aggregate the required inform
   ```sql
   SELECT "Vict Sex", COUNT(*) AS Frequency FROM uc_los_angeles_crime GROUP BY "Vict Sex";
 
-
-to complete kater
+to complete Later
 
