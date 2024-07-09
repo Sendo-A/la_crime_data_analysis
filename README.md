@@ -1,6 +1,6 @@
 # Los Angeles Crime Analysis Using SQL and Power BI
 
-<img src="https://github.com/Sendo-A/la_crime_data_analysis/blob/main/Los_Angeles_Images/Data_Viz_Powerbi.PNG" alt="Power Bi" width="400">
+<img src="https://github.com/Sendo-A/la_crime_data_analysis/blob/main/Los_Angeles_Images/Data_Viz_Powerbi.PNG" alt="Power Bi" width="800">
 
 ## Introduction
 
