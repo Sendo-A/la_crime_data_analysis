@@ -1,5 +1,7 @@
 # Los Angeles Crime Analysis Using SQL and Power BI
 
+<img src="https://github.com/Sendo-A/la_crime_data_analysis/blob/main/Los_Angeles_Images/Data_Viz_Powerbi.PNG" alt="Power Bi" width="400">
+
 ## Introduction
 
 This project provides an analysis of crime data in Los Angeles using SQL for data extraction and Power BI for visualization. The analysis focuses on various metrics to understand the patterns and trends in criminal activities, victim demographics, and case statuses.
